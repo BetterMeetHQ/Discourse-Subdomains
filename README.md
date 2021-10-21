@@ -23,6 +23,8 @@ Classification and overview of popular Discourse subdomain namings.
 - [forum.yugabyte.com](https://forum.yugabyte.com/)
 - [forum.duelistsunite.org](https://forum.duelistsunite.org/)
 - [forum.xboxera.com](https://forum.xboxera.com/)
+- [forum.yunohost.org](https://forum.yunohost.org/)
+
 
 ## Discourse
 
