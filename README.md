@@ -47,3 +47,8 @@ Classification and overview of popular Discourse subdomain namings.
 ## Without Subdomain
 
 - [unicyclist.com](https://unicyclist.com/)
+
+## Other Lists
+
+- [discoursehub.com/communities/](https://discoursehub.com/communities/)
+- [www.discourse.org/customers](https://www.discourse.org/customers)
