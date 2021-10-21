@@ -22,8 +22,8 @@ Classification and overview of popular Discourse subdomain namings.
 
 ## Discuss
 
-- [discuss.foss4lib.org](https://discuss.foss4lib.org/)
 - [discuss.elastic.co](https://discuss.elastic.co/)
+- [discuss.foss4lib.org](https://discuss.foss4lib.org/)
 
 ## Misc
 
