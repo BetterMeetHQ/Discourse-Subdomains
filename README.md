@@ -20,6 +20,7 @@ Classification and overview of popular Discourse subdomain namings.
 - [forum.laravel-livewire.com](https://forum.laravel-livewire.com/)
 - [forum.yugabyte.com](https://forum.yugabyte.com/)
 - [forum.yunohost.org](https://forum.yunohost.org/)
+- [forum.monocycle.info](https://forum.monocycle.info/)
 
 ## Discourse
 
