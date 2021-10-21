@@ -36,10 +36,6 @@ Classification and overview of popular Discourse subdomain namings.
 - [discuss.elastic.co](https://discuss.elastic.co/)
 - [discuss.foss4lib.org](https://discuss.foss4lib.org/)
 
-## Meta
-
-- [meta.discourse.org](https://meta.discourse.org/)
-
 ## Misc
 
 - [meta.discourse.org](https://meta.discourse.org/)
