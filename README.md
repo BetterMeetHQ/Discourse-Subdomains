@@ -4,6 +4,7 @@ Classification and overview of popular Discourse subdomain namings.
 
 ## Community
 
+- [community.apigee.com](https://community.apigee.com/) (dysfunctional)
 - [community.checkpoint.com](https://community.checkpoint.com/)
 - [community.databricks.com](https://community.databricks.com/)
 - [community.datastax.com](https://community.datastax.com/)
