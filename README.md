@@ -15,6 +15,7 @@ Classification and overview of popular Discourse subdomain namings.
 - [forum.1net.org](https://forum.1net.org/)
 - [forum.obsidian.md](https://forum.obsidian.md/)
 - [forum.opennebula.io](https://forum.opennebula.io/)
+- [forum.laravel-livewire.com](https://forum.laravel-livewire.com/)
 
 ## Discourse
 
