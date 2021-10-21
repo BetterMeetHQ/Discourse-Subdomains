@@ -17,6 +17,7 @@ Classification and overview of popular Discourse subdomain namings.
 - [forum.opennebula.io](https://forum.opennebula.io/)
 - [forum.laravel-livewire.com](https://forum.laravel-livewire.com/)
 - [forum.yugabyte.com](https://forum.yugabyte.com/)
+- [forum.cockroachlabs.com](https://forum.cockroachlabs.com/)
 
 ## Discourse
 
