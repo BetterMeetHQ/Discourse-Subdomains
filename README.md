@@ -1,6 +1,6 @@
 # Discourse Subdomains
 
-Classification and overview of popular Discourse sbdomain namings.
+Classification and overview of popular Discourse subdomain namings.
 
 ## Community
 
