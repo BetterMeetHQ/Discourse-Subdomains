@@ -14,11 +14,11 @@ Classification and overview of popular Discourse subdomain namings.
 ## Forum
 
 - [forum.1net.org](https://forum.1net.org/)
+- [forum.cockroachlabs.com](https://forum.cockroachlabs.com/)
 - [forum.obsidian.md](https://forum.obsidian.md/)
 - [forum.opennebula.io](https://forum.opennebula.io/)
 - [forum.laravel-livewire.com](https://forum.laravel-livewire.com/)
 - [forum.yugabyte.com](https://forum.yugabyte.com/)
-- [forum.cockroachlabs.com](https://forum.cockroachlabs.com/)
 
 ## Discourse
 
