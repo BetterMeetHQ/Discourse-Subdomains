@@ -27,6 +27,7 @@ Classification and overview of popular Discourse subdomain namings.
 - [forum.monocycle.info](https://forum.monocycle.info/)
 - [forum.mattermost.org](https://forum.mattermost.org/)
 
+## Forums
 
 ## Discourse
 
