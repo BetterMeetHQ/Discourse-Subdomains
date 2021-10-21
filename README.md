@@ -17,7 +17,7 @@ Classification and overview of popular Discourse sbdomain namings.
 
 ## Discuss
 
-
+- [discuss.foss4lib.org](https://discuss.foss4lib.org/)
 
 ## Misc
 
