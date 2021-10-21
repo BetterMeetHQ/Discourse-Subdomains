@@ -4,6 +4,7 @@ Classification and overview of popular Discourse sbdomain namings.
 
 ## Community
 
+- [community.checkpoint.com](https://community.checkpoint.com/)
 - [community.databricks.com](https://community.databricks.com/)
 - [community.datastax.com](https://community.datastax.com/)
 - [community.render.com](https://community.render.com/)
