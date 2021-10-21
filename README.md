@@ -25,6 +25,7 @@ Classification and overview of popular Discourse subdomain namings.
 - [forum.xboxera.com](https://forum.xboxera.com/)
 - [forum.yunohost.org](https://forum.yunohost.org/)
 - [forum.monocycle.info](https://forum.monocycle.info/)
+- [forum.mattermost.org](https://forum.mattermost.org/)
 
 
 ## Discourse
