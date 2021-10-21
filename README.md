@@ -10,6 +10,8 @@ Classification and overview of popular Discourse subdomain namings.
 - [community.datastax.com](https://community.datastax.com/)
 - [community.render.com](https://community.render.com/)
 - [community.rstudio.com](https://community.rstudio.com/)
+- [community.fitsa.org.za](https://community.fitsa.org.za/)
+- [community.scasa.co.za](https://community.scasa.co.za/)
 
 ## Forum
 
@@ -19,6 +21,8 @@ Classification and overview of popular Discourse subdomain namings.
 - [forum.opennebula.io](https://forum.opennebula.io/)
 - [forum.laravel-livewire.com](https://forum.laravel-livewire.com/)
 - [forum.yugabyte.com](https://forum.yugabyte.com/)
+- [forum.duelistsunite.org](https://forum.duelistsunite.org/)
+- [forum.xboxera.com](https://forum.xboxera.com/)
 
 ## Discourse
 
@@ -28,6 +32,10 @@ Classification and overview of popular Discourse subdomain namings.
 
 - [discuss.elastic.co](https://discuss.elastic.co/)
 - [discuss.foss4lib.org](https://discuss.foss4lib.org/)
+
+## Meta
+
+- [meta.discourse.org](https://meta.discourse.org/)
 
 ## Misc
 
