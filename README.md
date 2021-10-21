@@ -4,6 +4,7 @@ Classification and overview of popular Discourse sbdomain namings.
 
 ## Community
 
+- [community.databricks.com](https://community.databricks.com/)
 - [community.rstudio.com](https://community.rstudio.com/)
 
 ## Forum
