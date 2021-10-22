@@ -50,6 +50,7 @@ Classification and overview of popular Discourse subdomain namings.
 - [answers.netlify.com](https://answers.netlify.com/)
 - [bbs.boingboing.net](https://bbs.boingboing.net/)
 - [boards.straightdope.com](https://boards.straightdope.com/)
+- [commons.commondreams.org](https://commons.commondreams.org/)
 - [hitobito.discoursehosting.net](https://hitobito.discoursehosting.net/)
 - [meta.discourse.org](https://meta.discourse.org/)
 - [swi-prolog.discourse.group](https://swi-prolog.discourse.group/)
