@@ -70,12 +70,6 @@ Classification and overview of popular Discourse subdomain namings.
 - [forums.t-nation.com](https://forums.t-nation.com/)
 - [forums.wyzecam.com](https://forums.wyzecam.com/)
 
-## Discourse
-
-- [discourse.codecombat.com](https://discourse.codecombat.com/)
-- [discourse.getdbt.com](https://discourse.getdbt.com/)
-- [discourse.threejs.org](https://discourse.threejs.org/)
-
 ## Discuss
 
 - [discuss.codecademy.com](https://discuss.codecademy.com/)
@@ -85,6 +79,12 @@ Classification and overview of popular Discourse subdomain namings.
 - [discuss.kotlinlang.org](https://discuss.kotlinlang.org/)
 - [discuss.newrelic.com](https://discuss.newrelic.com/)
 - [discuss.rubyonrails.org](https://discuss.rubyonrails.org/)
+
+## Discourse
+
+1. [discourse.codecombat.com](https://discourse.codecombat.com/)
+1. [discourse.getdbt.com](https://discourse.getdbt.com/)
+1. [discourse.threejs.org](https://discourse.threejs.org/)
 
 ## Misc
 
