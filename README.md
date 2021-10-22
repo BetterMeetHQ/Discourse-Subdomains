@@ -8,6 +8,7 @@ Classification and overview of popular Discourse subdomain namings.
 - [community.checkpoint.com](https://community.checkpoint.com/)
 - [community.databricks.com](https://community.databricks.com/)
 - [community.datastax.com](https://community.datastax.com/)
+- [community.metabrainz.org](https://community.metabrainz.org/)
 - [community.render.com](https://community.render.com/)
 - [community.rstudio.com](https://community.rstudio.com/)
 - [community.fitsa.org.za](https://community.fitsa.org.za/)
