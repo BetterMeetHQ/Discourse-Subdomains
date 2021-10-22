@@ -55,3 +55,4 @@ Classification and overview of popular Discourse subdomain namings.
 
 - [discoursehub.com/communities/](https://discoursehub.com/communities/)
 - [www.discourse.org/customers](https://www.discourse.org/customers)
+- [trends.builtwith.com/websitelist/Discourse](https://trends.builtwith.com/websitelist/Discourse)
