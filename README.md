@@ -48,6 +48,8 @@ Classification and overview of popular Discourse subdomain namings.
 ## Misc
 
 - [answers.netlify.com](https://answers.netlify.com/)
+- [bbs.boingboing.net](https://bbs.boingboing.net/)
+- [boards.straightdope.com](https://boards.straightdope.com/)
 - [hitobito.discoursehosting.net](https://hitobito.discoursehosting.net/)
 - [meta.discourse.org](https://meta.discourse.org/)
 - [swi-prolog.discourse.group](https://swi-prolog.discourse.group/)
@@ -55,6 +57,7 @@ Classification and overview of popular Discourse subdomain namings.
 
 ## Without Subdomain
 
+- [blenderartists.org](https://blenderartists.org/)
 - [unicyclist.com](https://unicyclist.com/)
 
 ## Other Lists
