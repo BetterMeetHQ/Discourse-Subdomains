@@ -46,6 +46,7 @@ Classification and overview of popular Discourse subdomain namings.
 1. [forum.makerforums.info](https://forum.makerforums.info/)
 1. [forum.mangoh.io](https://forum.mangoh.io/)
 1. [forum.mattermost.org](https://forum.mattermost.org/)
+1. [forum.mautic.org](https://forum.mautic.org/)
 1. [forum.monocycle.info](https://forum.monocycle.info/)
 1. [forum.mssociety.org.uk](https://forum.mssociety.org.uk/)
 1. [forum.obsidian.md](https://forum.obsidian.md/)
