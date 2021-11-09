@@ -113,3 +113,4 @@ Classification and overview of popular Discourse subdomain namings.
 - [discoursehub.com/communities/](https://discoursehub.com/communities/)
 - [trends.builtwith.com/websitelist/Discourse](https://trends.builtwith.com/websitelist/Discourse)
 - [www.discourse.org/customers](https://www.discourse.org/customers)
+- [www.feverbee.com/communities/](https://www.feverbee.com/communities/)
