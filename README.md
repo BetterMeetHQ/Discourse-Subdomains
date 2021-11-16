@@ -88,6 +88,11 @@ Classification and overview of popular Discourse subdomain namings.
 1. [discourse.getdbt.com](https://discourse.getdbt.com/)
 1. [discourse.threejs.org](https://discourse.threejs.org/)
 
+## Talk
+
+1. [talk.folksy.com](https://talk.folksy.com/)
+1. [talk.jekyllrb.com](https://talk.jekyllrb.com/)
+
 ## Misc
 
 1. [answers.netlify.com](https://answers.netlify.com/)
@@ -98,7 +103,6 @@ Classification and overview of popular Discourse subdomain namings.
 1. [meta.discourse.org](https://meta.discourse.org/)
 1. [source.checkmarx.com](https://source.checkmarx.com/)
 1. [swi-prolog.discourse.group](https://swi-prolog.discourse.group/)
-1. [talk.folksy.com](https://talk.folksy.com/)
 1. [users.rust-lang.org](https://users.rust-lang.org/)
 1. [www.mongodb.com/community/forums](https://www.mongodb.com/community/forums)
 
