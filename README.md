@@ -16,6 +16,7 @@ Classification and overview of popular Discourse subdomain namings.
 1. [community.gemsofwar.com](https://community.gemsofwar.com/)
 1. [community.glowforge.com](https://community.glowforge.com/)
 1. [community.infiniteflight.com](https://community.infiniteflight.com/)
+1. [community.kodekloud.com](https://community.kodekloud.com/)
 1. [community.metabrainz.org](https://community.metabrainz.org/)
 1. [community.mydevices.com](https://community.mydevices.com/)
 1. [community.nulab.com](https://community.nulab.com/)
