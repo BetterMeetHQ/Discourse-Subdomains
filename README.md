@@ -51,6 +51,7 @@ Classification and overview of popular Discourse subdomain namings.
 1. [forum.monocycle.info](https://forum.monocycle.info/)
 1. [forum.mssociety.org.uk](https://forum.mssociety.org.uk/)
 1. [forum.obsidian.md](https://forum.obsidian.md/)
+1. [forum.okfn.de](https://forum.okfn.de/)
 1. [forum.opennebula.io](https://forum.opennebula.io/)
 1. [forum.schizophrenia.com](https://forum.schizophrenia.com/)
 1. [forum.smallgiantgames.com](https://forum.smallgiantgames.com/)
