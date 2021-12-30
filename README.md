@@ -43,6 +43,7 @@ Classification and overview of popular Discourse subdomain namings.
 1. [forum.glamour.de](https://forum.glamour.de/)
 1. [forum.grid.space](https://forum.grid.space/)
 1. [forum.kicad.info](https://forum.kicad.info/)
+1. [forum.lakefs.io](https://forum.lakefs.io/)
 1. [forum.laravel-livewire.com](https://forum.laravel-livewire.com/)
 1. [forum.lightburnsoftware.com](https://forum.lightburnsoftware.com/)
 1. [forum.ludia.com](https://forum.ludia.com/)
