@@ -80,6 +80,7 @@ Classification and overview of popular Discourse subdomain namings.
 ## Discuss
 
 1. [discuss.codecademy.com](https://discuss.codecademy.com/)
+1. [discuss.dvc.org](https://discuss.dvc.org/)
 1. [discuss.elastic.co](https://discuss.elastic.co/)
 1. [discuss.emberjs.com](https://discuss.emberjs.com/)
 1. [discuss.foss4lib.org](https://discuss.foss4lib.org/)
