@@ -83,6 +83,7 @@ Classification and overview of popular Discourse subdomain namings.
 1. [discuss.dvc.org](https://discuss.dvc.org/)
 1. [discuss.elastic.co](https://discuss.elastic.co/)
 1. [discuss.emberjs.com](https://discuss.emberjs.com/)
+1. [discuss.erpnext.com](https://discuss.erpnext.com/)
 1. [discuss.foss4lib.org](https://discuss.foss4lib.org/)
 1. [discuss.kotlinlang.org](https://discuss.kotlinlang.org/)
 1. [discuss.newrelic.com](https://discuss.newrelic.com/)
