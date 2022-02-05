@@ -110,6 +110,7 @@ Classification and overview of popular Discourse subdomain namings.
 1. [hitobito.discoursehosting.net](https://hitobito.discoursehosting.net/)
 1. [meta.discourse.org](https://meta.discourse.org/)
 1. [source.checkmarx.com](https://source.checkmarx.com/)
+1. [support.glitch.com](https://support.glitch.com/)
 1. [swi-prolog.discourse.group](https://swi-prolog.discourse.group/)
 1. [users.rust-lang.org](https://users.rust-lang.org/)
 1. [www.mongodb.com/community/forums](https://www.mongodb.com/community/forums)
