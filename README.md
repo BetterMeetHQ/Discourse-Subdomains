@@ -94,6 +94,7 @@ Classification and overview of popular Discourse subdomain namings.
 
 1. [discourse.codecombat.com](https://discourse.codecombat.com/)
 1. [discourse.getdbt.com](https://discourse.getdbt.com/)
+1. [discourse.nodered.org](https://discourse.nodered.org/)
 1. [discourse.threejs.org](https://discourse.threejs.org/)
 
 ## Talk
