@@ -21,6 +21,7 @@ Classification and overview of popular Discourse subdomain namings.
 1. [community.leanpub.com](https://community.leanpub.com/) (auth required)
 1. [community.metabrainz.org](https://community.metabrainz.org/)
 1. [community.mydevices.com](https://community.mydevices.com/)
+1. [community.n8n.io](https://community.n8n.io/)
 1. [community.nulab.com](https://community.nulab.com/)
 1. [community.render.com](https://community.render.com/)
 1. [community.rstudio.com](https://community.rstudio.com/)
