@@ -12,7 +12,6 @@ Classification and overview of popular Discourse subdomain namings.
 1. [community.databricks.com](https://community.databricks.com/)
 1. [community.datastax.com](https://community.datastax.com/)
 1. [community.drownedinsound.com](https://community.drownedinsound.com/)
-1. [community.fitsa.org.za](https://community.fitsa.org.za/)
 1. [community.gemsofwar.com](https://community.gemsofwar.com/)
 1. [community.glowforge.com](https://community.glowforge.com/)
 1. [community.infiniteflight.com](https://community.infiniteflight.com/)
@@ -25,7 +24,6 @@ Classification and overview of popular Discourse subdomain namings.
 1. [community.nulab.com](https://community.nulab.com/)
 1. [community.render.com](https://community.render.com/)
 1. [community.rstudio.com](https://community.rstudio.com/)
-1. [community.scasa.co.za](https://community.scasa.co.za/)
 1. [community.smartthings.com](https://community.smartthings.com/)
 1. [community.unbounce.com](https://community.unbounce.com/)
 
