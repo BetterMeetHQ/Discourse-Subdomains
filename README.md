@@ -9,6 +9,7 @@ Classification and overview of popular Discourse subdomain namings.
 1. [community.brave.com](https://community.brave.com/)
 1. [community.cartalk.com](https://community.cartalk.com/)
 1. [community.checkpoint.com](https://community.checkpoint.com/)
+1. [community.cloudflare.com](https://community.cloudflare.com/)
 1. [community.databricks.com](https://community.databricks.com/)
 1. [community.datastax.com](https://community.datastax.com/)
 1. [community.drownedinsound.com](https://community.drownedinsound.com/)
@@ -39,6 +40,7 @@ Classification and overview of popular Discourse subdomain namings.
 1. [forum.factset.com](https://forum.factset.com/)
 1. [forum.figma.com](https://forum.figma.com/)
 1. [forum.gethopscotch.com](https://forum.gethopscotch.com/)
+1. [forum.gitlab.com](https://forum.gitlab.com/)
 1. [forum.glamour.de](https://forum.glamour.de/)
 1. [forum.grid.space](https://forum.grid.space/)
 1. [forum.kicad.info](https://forum.kicad.info/)
@@ -93,6 +95,7 @@ Classification and overview of popular Discourse subdomain namings.
 
 1. [discourse.codecombat.com](https://discourse.codecombat.com/)
 1. [discourse.getdbt.com](https://discourse.getdbt.com/)
+1. [discourse.gohugo.io](https://discourse.gohugo.io/)
 1. [discourse.nodered.org](https://discourse.nodered.org/)
 1. [discourse.threejs.org](https://discourse.threejs.org/)
 
