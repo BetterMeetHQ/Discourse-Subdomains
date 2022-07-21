@@ -63,6 +63,8 @@ Classification and overview of popular Discourse subdomain namings.
 1. [forum.xboxera.com](https://forum.xboxera.com/)
 1. [forum.yugabyte.com](https://forum.yugabyte.com/)
 1. [forum.yunohost.org](https://forum.yunohost.org/)
+1. [forum.tzm.community](https://forum.tzm.community)
+1. [forum.fairphone.com](https://forum.fairphone.com)
 
 ## Forums
 
@@ -95,6 +97,7 @@ Classification and overview of popular Discourse subdomain namings.
 1. [discourse.getdbt.com](https://discourse.getdbt.com/)
 1. [discourse.nodered.org](https://discourse.nodered.org/)
 1. [discourse.threejs.org](https://discourse.threejs.org/)
+1. [discourse.jupyter.org](https://discourse.jupyter.org)
 
 ## Talk
 
