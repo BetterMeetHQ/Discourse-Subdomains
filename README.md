@@ -28,6 +28,7 @@ Classification and overview of popular Discourse subdomain namings.
 1. [community.unbounce.com](https://community.unbounce.com/)
 1. [community.greenbone.net](community.greenbone.net/)
 1. [community.signalusers.org](https://community.signalusers.org/)
+1. [community.jitsi.org](https://community.jitsi.org/)
 
 ## Forum
 
