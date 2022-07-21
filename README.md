@@ -26,6 +26,8 @@ Classification and overview of popular Discourse subdomain namings.
 1. [community.rstudio.com](https://community.rstudio.com/)
 1. [community.smartthings.com](https://community.smartthings.com/)
 1. [community.unbounce.com](https://community.unbounce.com/)
+1. [community.greenbone.net](community.greenbone.net)
+1. [community.signalusers.org](https://community.signalusers.org/)
 
 ## Forum
 
@@ -117,6 +119,9 @@ Classification and overview of popular Discourse subdomain namings.
 1. [swi-prolog.discourse.group](https://swi-prolog.discourse.group/)
 1. [users.rust-lang.org](https://users.rust-lang.org/)
 1. [www.mongodb.com/community/forums](https://www.mongodb.com/community/forums)
+1. [ask.fedoraproject.org](https://ask.fedoraproject.org/)
+1. [discussion.fedoraproject.org](https://discussion.fedoraproject.org/)
+1. [devtalk.blender.org](https://devtalk.blender.org/)
 
 ## Without Subdomain
 
