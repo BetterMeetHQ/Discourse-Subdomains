@@ -25,6 +25,7 @@ Classification and overview of popular Discourse subdomain namings.
 1. [community.render.com](https://community.render.com/)
 1. [community.rstudio.com](https://community.rstudio.com/)
 1. [community.smartthings.com](https://community.smartthings.com/)
+1. [community.softr.io](https://community.softr.io/)
 1. [community.unbounce.com](https://community.unbounce.com/)
 
 ## Forum
