@@ -25,12 +25,10 @@ Classification and overview of popular Discourse subdomain namings.
 1. [community.nulab.com](https://community.nulab.com/)
 1. [community.render.com](https://community.render.com/)
 1. [community.rstudio.com](https://community.rstudio.com/)
+1. [community.signalusers.org](https://community.signalusers.org/)
 1. [community.smartthings.com](https://community.smartthings.com/)
 1. [community.softr.io](https://community.softr.io/)
 1. [community.unbounce.com](https://community.unbounce.com/)
-1. [community.greenbone.net](community.greenbone.net/)
-1. [community.signalusers.org](https://community.signalusers.org/)
-1. [community.jitsi.org](https://community.jitsi.org/)
 
 ## Forum
 
@@ -42,9 +40,11 @@ Classification and overview of popular Discourse subdomain namings.
 1. [forum.duelistsunite.org](https://forum.duelistsunite.org/)
 1. [forum.facepunch.com](https://forum.facepunch.com/)
 1. [forum.factset.com](https://forum.factset.com/)
+1. [forum.fairphone.com](https://forum.fairphone.com/)
 1. [forum.figma.com](https://forum.figma.com/)
 1. [forum.gethopscotch.com](https://forum.gethopscotch.com/)
 1. [forum.glamour.de](https://forum.glamour.de/)
+1. [forum.greenbone.net](https://forum.greenbone.net/)
 1. [forum.grid.space](https://forum.grid.space/)
 1. [forum.kicad.info](https://forum.kicad.info/)
 1. [forum.laravel-livewire.com](https://forum.laravel-livewire.com/)
@@ -63,12 +63,11 @@ Classification and overview of popular Discourse subdomain namings.
 1. [forum.schizophrenia.com](https://forum.schizophrenia.com/)
 1. [forum.smallgiantgames.com](https://forum.smallgiantgames.com/)
 1. [forum.tudiabetes.org](https://forum.tudiabetes.org/)
+1. [forum.tzm.community](https://forum.tzm.community/)
 1. [forum.uipath.com](https://forum.uipath.com/)
 1. [forum.xboxera.com](https://forum.xboxera.com/)
 1. [forum.yugabyte.com](https://forum.yugabyte.com/)
 1. [forum.yunohost.org](https://forum.yunohost.org/)
-1. [forum.tzm.community](https://forum.tzm.community/)
-1. [forum.fairphone.com](https://forum.fairphone.com/)
 
 ## Forums
 
