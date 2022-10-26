@@ -13,7 +13,7 @@ Classification and overview of popular Discourse subdomain namings.
 1. [community.datastax.com](https://community.datastax.com/)
 1. [community.drownedinsound.com](https://community.drownedinsound.com/)
 1. [community.gemsofwar.com](https://community.gemsofwar.com/)
-1. [community.globalcyberalliance.org](https://community.globalcyberalliance.org/]
+1. [community.globalcyberalliance.org](https://community.globalcyberalliance.org/)
 1. [community.glowforge.com](https://community.glowforge.com/)
 1. [community.infiniteflight.com](https://community.infiniteflight.com/)
 1. [community.influxdata.com](https://community.influxdata.com/)
