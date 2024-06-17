@@ -128,9 +128,9 @@ Classification and overview of popular Discourse subdomain namings.
 ## Without Subdomain
 
 1. [blenderartists.org](https://blenderartists.org/)
+1. [timog.net](https://timog.net/)
 1. [twittercommunity.com](https://twittercommunity.com/)
 1. [unicyclist.com](https://unicyclist.com/)
-1. [timog.net](https://timog.net) 
 
 ## Other Lists
 
